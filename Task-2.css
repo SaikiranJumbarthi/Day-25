@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.navbar:hover{
+    font-size: 200%;
+    color: blueviolet;
+}
+.Section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.carousel-item{
+    width: 1500px;
+    height: 500px;
+}
